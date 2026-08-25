@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monina-reflexiozen.vercel.app/sitemap.xml

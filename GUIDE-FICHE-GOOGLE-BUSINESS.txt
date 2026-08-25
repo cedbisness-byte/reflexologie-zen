@@ -1,0 +1,66 @@
+====================================================================
+FICHE GOOGLE BUSINESS PROFILE — MONINA REFLEXIO ZEN
+Guide pas-à-pas pour maximiser le référencement local (SEO local)
+====================================================================
+
+1) CRÉER LA FICHE (15 min)
+   - Aller sur google.com/business et cliquer « Gérer maintenant ».
+   - Nom : Monina Reflexio Zen
+   - Catégorie principale : « Reflexologue » ou « Institut de beauté et bien-être »
+     → Catégorie secondaire : « Service de massage », « Centre de bien-être »
+   - Cocher « Oui, je suis disponible en personne » (établissement avec adresse).
+   - Adresse : 272 Rue de Rouveau, 83140 Six-Fours-les-Plages
+   - Zone desservie (si domicile) : Sanary-sur-Mer, Ollioules, Six-Fours-les-Plages
+   - Téléphone : 07 63 25 22 04
+   - Site web : https://monina-reflexiozen.vercel.app
+   - Validation : par SMS/courrier — suivre les instructions Google.
+
+2) DESCRIPTION DE L'ÉTABLISSEMENT (à copier-coller, 750 caractères max)
+« Monina Reflexio Zen, cabinet de réflexologie plantaire à Six-Fours-les-Plages,
+vous accueille dans un cadre apaisant pour des séances de détente sur-mesure :
+séance découverte (45 min), réflexologie plantaire complète (1 h), formule
+détente & relaxation (1 h 30), carnet de 5 séances et cartes cadeaux.
+Monica Estevez, certifiée réflexologue plantaire (Centre d'Empreinte Bien-Être
+à Toulon), pratique également le Quantum Touch. Chaque séance débute par un
+échange personnalisé : stress, sommeil, circulation jambes lourdes, énergie
+vitale. Séances au cabinet ou à domicile sur Sanary, Six-Fours et Ollioules.
+Réservation simple en ligne, réponse garantie sous 24 h ouvrées. »
+
+3) HORAIRES
+   Lun-Ven : 09:00-17:00 · Sam : 09:00-13:00 · Dim : fermé
+
+4) PHOTOS À AJOUTER (important pour le référencement local)
+   - Logo (images/logo.png)
+   - Façade/intérieur du cabinet (images/cabinet.jpg, interieur.jpg)
+   - Monica en séance/ambiance (monica-*.jpg du site)
+   - Minimum 10 photos, ajouter régulièrement.
+
+5) ATTRIBUTS & SERVICES
+   - Rendez-vous : recommandé / obligatoire
+   - Accessibilité, langues parlées : Français, Anglais, Espagnol
+
+6) ACTIVER LA MESSAGERIE
+   - Activer le chat : délai d'annonce « Répond en quelques heures »
+   - Objectif : répondre < 24 h (cohérent avec la promesse du site).
+
+7) AVIS CLIENTS (levier n°1 du SEO local)
+   - Après CHAQUE séance, envoyer le lien direct d'avis :
+     https://g.page/r/[ID-GÉNÉRÉ]/review  (disponible dans l'app Business Profile)
+   - Répondre à tous les avis, y compris positifs.
+   - Les 4 témoignages du site peuvent servir de relance WhatsApp.
+
+8) PUBLICATIONS (1×/semaine idéalement)
+   - Type « Offre » ou « Nouveau » : ex. Cartes cadeaux, séance découverte.
+   - Ajouter un bouton « Réserver » pointant vers
+     https://monina-reflexiozen.vercel.app/rdv.html
+
+9) LIEN AVEC LE SITE
+   - Sur Google Search Console : déclarer la propriété du site.
+   - Dans Business Profile : champ « Site web » = URL ci-dessus ✓
+   - Cohérence totale NAP (Nom-Adresse-Téléphone) entre fiche et site ✓
+
+10) SEARCH CONSOLE (complément indispensable)
+    - search.google.com/search-console → ajouter monina-reflexiozen.vercel.app
+    - Valider via balise DNS Vercel ou fichier HTML.
+    - Soumettre le sitemap : https://monina-reflexiozen.vercel.app/sitemap.xml
+====================================================================
