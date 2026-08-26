@@ -135,7 +135,7 @@ button{font-family:inherit;cursor:pointer}
 /* ---------- Hero ---------- */
 .hero{position:relative;min-height:100vh;display:flex;align-items:center;color:#fff;overflow:hidden}
 .hero .bg{position:absolute;inset:0}
-.hero .bg img{width:100%;height:100%;object-fit:cover;transform:scale(1.08);transition:transform 1.6s ease-out}
+.hero .bg img{width:100%;height:100%;object-fit:cover;transform:scale(1.03);transition:transform 1.6s ease-out}
 .hero.ready .bg img{transform:scale(1)}
 .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,28,26,.6) 0%,rgba(10,28,26,.25) 45%,rgba(10,28,26,.88) 100%)}
 .ghost{
@@ -183,11 +183,11 @@ h2{font-size:clamp(32px,4.2vw,52px);margin:16px 0 18px}
 .head-flex{display:flex;align-items:flex-end;justify-content:space-between;gap:30px;margin-bottom:60px;flex-wrap:wrap}
 
 /* About */
-.about-grid{display:grid;grid-template-columns:1fr 1.05fr;gap:70px;align-items:center}
+.about-grid{display:grid;grid-template-columns:1.35fr 1fr;gap:50px;align-items:center}
 .about-media{position:relative}
 .img-main{border-radius:var(--r);overflow:hidden;box-shadow:var(--sh);position:relative}
 .img-main::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 55%,rgba(13,38,35,.35))}
-.img-main img{width:100%;aspect-ratio:4/5;object-fit:cover}
+.img-main img{width:100%;height:auto;max-height:750px;object-fit:cover}
 .img-float{position:absolute;right:-34px;bottom:-34px;width:46%;border-radius:var(--r);overflow:hidden;border:8px solid var(--paper);box-shadow:var(--sh);transform:rotate(3deg)}
 .img-float img{width:100%;aspect-ratio:4/3;object-fit:cover}
 .since{
@@ -234,7 +234,7 @@ h2{font-size:clamp(32px,4.2vw,52px);margin:16px 0 18px}
 .presta:hover{transform:translateY(-8px);box-shadow:var(--sh)}
 .presta .media{position:relative;height:230px;overflow:hidden}
 .presta .media img{width:100%;height:100%;object-fit:cover;transition:transform .7s}
-.presta:hover .media img{transform:scale(1.07)}
+.presta:hover .media img{transform:scale(1.03)}
 .presta .media::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,rgba(13,38,35,.55))}
 .presta .dur{position:absolute;left:18px;bottom:16px;z-index:2;color:#fff;font-size:13px;letter-spacing:.14em;text-transform:uppercase;background:rgba(13,38,35,.55);padding:6px 14px;border-radius:999px;backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.25)}
 .presta-body{padding:28px;display:flex;flex-direction:column;flex:1}
